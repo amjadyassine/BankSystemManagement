@@ -89,16 +89,16 @@ Modifier
 ## 📸 Preview Screenshots
 
 ### 🔑 Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](ScreenShots/login.png)
 
 ### 📜 Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](ScreenShots/main_menu.png)
 
 ### 👥 Clients List
-![Clients List](screenshots/clients_list.png)
+![Clients List](ScreenShots/clients_list.png)
 
 ### 👤 Users List
-![Users List](screenshots/users_list.png)
+![Users List](ScreenShots/users_list.png)
 
 ---
 
