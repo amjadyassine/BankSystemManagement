@@ -1,0 +1,8 @@
+.vs/ 
+x64/ 
+*.obj 
+*.exe 
+*.pdb 
+!*.vcxproj 
+!*.vcxproj.filters 
+BankSystemManagement.vcxproj.user 
